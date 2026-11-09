@@ -1,3 +1,11 @@
+# Emilia's Tweaks
+
+I moved from Mcreator since i want to expend what i do and iterate faster / be more efficient and optimized
+
+## NEED TO CHANGE THIS
+
+
+
 
 Installation information
 =======
