@@ -1,0 +1,34 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="GNU General Public License version 3 (GPLv3)"
+
+[[mods]]
+modId="emiliastweaks"
+version="1.0.0"
+displayName="Emilia's Tweaks"
+displayURL="https://sleepeesoftware.fr"
+logoFile="logo.png"
+credits="IDKKKKK"
+authors="Emilia_l_UwU_l"
+description="Minecraft Tweaks to my taste "
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+
+# Start of user code block custom mixins
+# End of user code block custom mixins
+
+[[dependencies.emiliastweaks]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1.265,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.emiliastweaks]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1]"
+    ordering="AFTER"
+    side="BOTH"
