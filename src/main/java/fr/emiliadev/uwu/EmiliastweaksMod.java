@@ -1,4 +1,4 @@
-package fr.emilia.uwu;
+package fr.emiliadev.uwu;
 
 import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.LogManager;
@@ -28,8 +28,8 @@ import java.util.Comparator;
 import it.unimi.dsi.fastutil.ints.IntObjectPair;
 import it.unimi.dsi.fastutil.ints.IntObjectImmutablePair;
 
-import fr.emilia.uwu.init.EmiliastweaksModTabs;
-import fr.emilia.uwu.init.EmiliastweaksModItems;
+import fr.emiliadev.uwu.init.EmiliastweaksModTabs;
+import fr.emiliadev.uwu.init.EmiliastweaksModItems;
 
 @Mod("emiliastweaks")
 public class EmiliastweaksMod {

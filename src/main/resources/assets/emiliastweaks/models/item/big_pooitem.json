@@ -4,26 +4,26 @@
   "base": {
     "parent": "item/generated",
     "textures": {
-      "layer0": "emiliastweaks:big_poopixel"
+      "layer0": "emiliastweaks:item/big_poopixel"
     }
   },
   "perspectives": {
     "gui": {
       "parent": "item/generated",
       "textures": {
-        "layer0": "emiliastweaks:big_poo"
+        "layer0": "emiliastweaks:item/big_poo"
       }
     },
     "fixed": {
       "parent": "item/generated",
       "textures": {
-        "layer0": "emiliastweaks:big_poo"
+        "layer0": "emiliastweaks:item/big_poo"
       }
     },
     "ground": {
       "parent": "item/generated",
       "textures": {
-        "layer0": "emiliastweaks:big_poo"
+        "layer0": "emiliastweaks:item/big_poo"
       }
     }
   }

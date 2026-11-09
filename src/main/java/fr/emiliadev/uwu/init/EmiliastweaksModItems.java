@@ -1,15 +1,12 @@
-/*
- *    MCreator note: This file will be REGENERATED on each build.
- */
-package fr.emilia.uwu.init;
+package fr.emiliadev.uwu.init;
 
 import net.neoforged.neoforge.registries.DeferredRegister;
 import net.neoforged.neoforge.registries.DeferredItem;
 
 import net.minecraft.world.item.Item;
 
-import fr.emilia.uwu.item.BigPooitemItem;
-import fr.emilia.uwu.EmiliastweaksMod;
+import fr.emiliadev.uwu.item.BigPooitemItem;
+import fr.emiliadev.uwu.EmiliastweaksMod;
 
 public class EmiliastweaksModItems {
 	public static final DeferredRegister.Items REGISTRY = DeferredRegister.createItems(EmiliastweaksMod.MODID);

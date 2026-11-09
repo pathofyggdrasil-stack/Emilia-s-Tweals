@@ -1,4 +1,4 @@
-package fr.emilia.uwu.item;
+package fr.emiliadev.uwu.item;
 
 import net.neoforged.api.distmarker.OnlyIn;
 import net.neoforged.api.distmarker.Dist;
