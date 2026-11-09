@@ -1,0 +1,13 @@
+{
+  "itemGroup.emiliastweaks": "Example Mod Tab",
+  "block.emiliastweaks.example_block": "Example Block",
+  "item.emiliastweaks.example_item": "Example Item",
+
+  "emiliastweaks.configuration.title": "Emilia's Tweaks Configs",
+  "emiliastweaks.configuration.section.emiliastweaks.common.toml": "Emilia's Tweaks Configs",
+  "emiliastweaks.configuration.section.emiliastweaks.common.toml.title": "Emilia's Tweaks Configs",
+  "emiliastweaks.configuration.items": "Item List",
+  "emiliastweaks.configuration.logDirtBlock": "Log Dirt Block",
+  "emiliastweaks.configuration.magicNumberIntroduction": "Magic Number Text",
+  "emiliastweaks.configuration.magicNumber": "Magic Number"
+}
