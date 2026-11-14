@@ -2,6 +2,22 @@
 
 I moved from Mcreator since i want to expend what i do and iterate faster / be more efficient and optimized
 
+
+I think i will remove big poo item and the big painting, only keeping the 2x2
+
+i will also add some currency,
+two to three fuel type for IV/MTS
+and something like a Chalk Marker or some road marker
+
+i will make a IV/MTS pack for some simple vehicle
+
+I think i will also make a block palette, like 16 color block with and without texture
+and some variante shap like slabs for them, since most of the build are for use,
+close up texturing need to be nice.
+
+
+
+
 ## NEED TO CHANGE THIS
 
 
